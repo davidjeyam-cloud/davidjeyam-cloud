@@ -7,7 +7,11 @@ I've spent 25+ years building technology for large financial institutions. For t
 
 ## Currently working towards
 
-🎯 **Claude Architect certification (Foundations).** I'm learning by building. Each project below targets a skill an architect needs when designing production systems with Claude, and I'm doing the work in public.
+🎯 **Claude Certified Architect – Foundations**
+
+> Validates that you can scope and design Claude-based solutions: selecting the right model and deployment platform, framing agentic versus single-shot architectures, and accounting for evaluation, cost, and responsible deployment from day one.
+
+I'm learning by building. The projects below are my practice ground for those skills, and I'm doing the work in public.
 
 ## The hands-on path
 
@@ -62,7 +66,7 @@ I've spent 25+ years building technology for large financial institutions. For t
 - Certificate in Quantitative Finance (CQF)
 - Enterprise Model Risk Management (PRMIA)
 - Building AI Agents with MongoDB
-- 🎯 In progress: Claude Architect certification (Foundations)
+- 🎯 In progress: Claude Certified Architect – Foundations
 
 ## Get in touch
 
