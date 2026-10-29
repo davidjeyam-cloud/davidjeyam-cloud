@@ -70,6 +70,6 @@ I'm learning by building. The projects below are my practice ground for those sk
 
 ## Get in touch
 
-[LinkedIn](https://www.linkedin.com/in/djeyam)
+[LinkedIn](https://www.linkedin.com/in/djeyam/)
 
 <sub>Views and projects here are my own.</sub>
